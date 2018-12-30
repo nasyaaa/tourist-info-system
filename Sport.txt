@@ -1,0 +1,4 @@
+1,Legoland,100,Indoor and Outdoor,10 a.m. - 7 p.m.,No Level
+3,Coral Zipline Pulau Sapi,100,Outdoor Beach,10.00 a.m. - 3.30p.m.,No level
+2,Taman Botani Negara Shah Alam,100,Outdoor Green,7:30 a.m. - 5:00 p.m.,No level
+2,Skytrex,100,Outdoor,8:30 a.m. - 6:00 p.m.,All Level

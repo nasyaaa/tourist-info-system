@@ -1,0 +1,6 @@
+Johor Bahru:Kota Kinabalu
+Johor Bahru:Shah Alam
+Shah Alam:Johor Bahru
+Shah Alam:Kota Kinabalu
+Kota Kinabalu:Johor Bahru
+Kota Kinabalu:Shah Alam

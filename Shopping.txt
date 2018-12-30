@@ -1,0 +1,5 @@
+1,Johor Premium Outlets,300,Outdoor,10.00 a.m. - 10.00 p.m.,[Gucci;Victoria's Secret;Swarovski]
+2,Setia City Mall,300,Indoor,10.00 a.m. - 10.00 p.m.,[Charles & Keith;ZARA;Adidas;GSC Cinemas;Wangsa Bowl]
+3,Gaya Street,300,Outdoor,24 hours,[Clothes;Local Foods;Trinkets]
+1,Angsana City Mall,300,Indoor,9:00 am - 12:00 pm Daily,[Zara;Jakel;Naelofar]
+1,Sana Sini,300,Indoor,9:00 a.m. - 10:00 p.m.,[Rakuten;Famili Mart;KK BOX]

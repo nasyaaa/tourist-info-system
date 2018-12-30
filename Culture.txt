@@ -1,0 +1,4 @@
+2,Sultan Alam Shah Museum,200,Outdoor,9:30 a.m. - 5:30 p.m.,(Tue-Sun),0.00
+3,Mari Mari Cultural Villlage,200,Outdoor,10 a.m. - 10 p.m.,160.0
+1,Bangunan Sultan Ibrahim,200,Indoor,24 Hours,0.00
+1,Johor Bahru Chinese Heritage Museum,200,Indoor,9:00 a.m. - 5:00 p.m.,5.00
